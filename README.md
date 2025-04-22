@@ -11,11 +11,13 @@ This project uses a Convolutional Neural Network (CNN) based on the **VGG-19** a
 
 **VGG-19** is a deep convolutional neural network developed by the Visual Geometry Group (VGG) at Oxford. It has 19 layers (16 convolutional + 3 fully connected) and is known for its simplicity and strong performance in image classification tasks.
 
-In this project:
-- VGG-19 used as a **feature extractor**.
-- Freeze the convolutional base.
-- Add custom layers to classify potato diseases.
-- This helps reduce training time while achieving high accuracy.
+### 🔧 How It Works
+
+- **VGG-19 is used as a feature extractor.**  
+- **The convolutional base is frozen** to retain learned features from ImageNet.  
+- **Custom dense layers are added** to classify potato leaf diseases.  
+- **This approach reduces training time** while maintaining high accuracy on a limited dataset.
+
 
 
 
