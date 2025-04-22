@@ -25,7 +25,7 @@ This project uses a Convolutional Neural Network (CNN) based on the **VGG-19** a
 
 - 🔗 **Source**: [Roboflow](https://universe.roboflow.com/ai-xwoe2/potato-eq4aq)
 - 🧪 **Classes**: Early Blight, Late Blight, Healthy
-- 🖼️ **Size**: 4998 training images(subset), 705 test images
+- 🖼️ **Size**: 4998 training images (subset), 705 test images
 - 🗂️ **Structure**:
   ```
   potato-1/
