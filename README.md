@@ -63,17 +63,6 @@ This project uses a Convolutional Neural Network (CNN) based on the **VGG-19** a
 The model predicts the class of unseen test images with high confidence. Visualization of predictions is saved in `predictions_VGG-19.png`.
 
 
-## 📦 Outputs
-
-| File | Description |
-|------|-------------|
-| `vgg19_potato_model.keras` | Trained model |
-| `vgg19_history.npy`        | Training history |
-| `confusion_matrix.png`     | Evaluation graph |
-| `predictions_VGG-19.png`   | Sample predictions |
-
-
-
 ## 🛠 Dependencies
 
 Install the required Python libraries:
